@@ -1,0 +1,165 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.conatiner {
+    margin-left: 10%;
+    color: wheat;
+}
+
+#brand {
+    float: left;
+}
+
+#collapsibleNavbar {
+    margin: 0%;
+    padding: 0%;
+}
+
+.slider {
+    width: 100%;
+}
+
+.navig {
+    background-color: wheat;
+}
+
+.nav-link {
+    color: white;
+    font-family: 'Sora', sans-serif;
+}
+
+
+/* styling for section 1  */
+
+#section1 {
+    background-color: #00A896
+}
+
+#Goals #values #Hobbies {
+    background-color: white;
+    font-family: 'Krona One', sans-serif;
+}
+
+.fonthead {
+    font-family: 'Krona One', sans-serif;
+}
+
+.fontp {
+    line-height: 30px;
+    font-family: 'Sora', sans-serif;
+}
+
+.servicelogo {
+    max-width: 15%;
+    height: auto;
+}
+
+.element {
+    text-align: center;
+    align-content: center;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.break {
+    color: whitesmoke;
+}
+
+
+/* styling for section 2  */
+
+#section2 {
+    background-color: #00A896;
+}
+
+
+/* styling for about me div */
+
+#aboutmeimg {
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 15%;
+}
+
+#AboutMe {
+    background-color: #E88473;
+    overflow: hidden;
+}
+
+.logo {
+    max-height: 15%;
+    width: auto;
+}
+
+
+/* */
+
+#pograms {
+    max-width: 45%;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+
+.card:hover {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 12px 30px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.card,
+#workimg {
+    align-content: center;
+    border-radius: 15px 50px;
+    transition: 0.8s;
+}
+
+.btn {
+    background-color: #DE6964;
+    border-color: #DE6964;
+}
+
+
+/* styling for footer */
+
+#mail {
+    Text-Decoration: None;
+    text-decoration: underline;
+    color: white;
+}
+
+.logo {
+    max-width: 5%;
+    height: auto;
+}
+
+.alink {
+    Text-Decoration: None;
+}
+
+.logoID {
+    margin: 0%;
+    padding: 0%;
+    border: 0;
+    display: inline;
+    color: white;
+}
+
+#copyright {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    margin-left: 5%;
+}
